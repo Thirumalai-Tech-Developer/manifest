@@ -1,6 +1,6 @@
 <manifest>
     <remote name="nulldebris" fetch="https://github.com/NullDebris/" />
-    <remote name="thiru" fetch="https://github.com/https://github.com/Thirumalai-Tech-Developer/" />
+    <remote name="thiru" fetch="https://github.com/Thirumalai-Tech-Developer/" />
     <remote name="nulldebris-gl" fetch="https://gitlab.com/NullDebris/" />
 
     <project path="device/nothing/asteroids" name="android_device_nothing_asteroids" remote="thiru" revision="6.6/lineage-23.2" />
