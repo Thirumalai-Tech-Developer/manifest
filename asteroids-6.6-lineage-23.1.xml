@@ -1,5 +1,6 @@
 <manifest>
     <remote name="nulldebris" fetch="https://github.com/NullDebris/" />
+    <remote name="nulldebris-gl" fetch="https://gitlab.com/NullDebris/" />
 
     <project path="device/nothing/asteroids" name="android_device_nothing_asteroids" remote="nulldebris" revision="6.6/lineage-23.1" />
 
@@ -9,7 +10,7 @@
 
     <project path="kernel/nothing/sm7635-devicetrees" name="android_kernel_nothing_sm7635-devicetrees" remote="nulldebris" revision="6.6/lineage-23.1" />
 
-    <project path="vendor/nothing/asteroids" name="proprietary_vendor_nothing_asteroids" remote="nulldebris" revision="lineage-23.1" />
+    <project path="vendor/nothing/asteroids" name="proprietary_vendor_nothing_asteroids" remote="nulldebris-gl" revision="lineage-23.1" />
 
     <project path="packages/apps/ParanoidGlyph" name="packages_apps_ParanoidGlyph" remote="nulldebris" revision="lineage-23.0" />
 
